@@ -1,0 +1,8 @@
+{
+  "bower": {
+    "jquery.serializeJSON": {
+      "source": "https://github.com/darkadept/jquery.serializeJSON.git",
+      "version": "2.1.0-darkadept-5"
+    }
+  }
+}
