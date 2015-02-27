@@ -1,0 +1,13 @@
+{
+  "name": "meteor-krt-inplace",
+  "version": "0.1.2",
+  "dependencies": {
+    "jquery.serializeJSON": "2.4.2"
+  },
+  "private": true,
+  "overrides": {
+    "jquery": {
+      "main": []
+    }
+  }
+}
